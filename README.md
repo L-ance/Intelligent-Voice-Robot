@@ -29,4 +29,4 @@
 pip3 install pyopenssl
 环境 python3 + flask 和响应的包即可
 
-clone 此项目, 然后在 myapp.py run起来即可
+clone 此项目, 然后在 myapp.py run起来即可.
